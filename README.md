@@ -28,7 +28,7 @@ An interactive, responsive MCQ Quiz Web Application that directly reads and conv
 
 1. Open a terminal in the project directory:
    ```bash
-   cd d:\CO5KA\ENDS\MCQ
+   cd d:\MCQ
    ```
 
 2. Run the Vite development server:
